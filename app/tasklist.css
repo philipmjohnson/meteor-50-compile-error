@@ -1,3 +1,4 @@
 body {
   margin: 20px;
+  background-color: skyblue; /* Only in the compiler-error branch off the master */
 }
